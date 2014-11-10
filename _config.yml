@@ -5,7 +5,7 @@ pygments: true
 paginate: 8
 permalink: /:title
 
-title: Frank.com
+title: 霸气进.com
 url: http://jinglefun.github.io/
 feed: /atom.xml
 author_info: <a href="http://jinglefun.github.io/">FrankJin</a>
